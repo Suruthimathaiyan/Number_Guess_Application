@@ -1,0 +1,46 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+body{
+    background:url(./background.jpg);
+    background-size: cover;
+}
+.container
+{
+    background:url(./center_img.jpg);
+    background-size:cover;
+    border: 10px solid black;
+    text-align: center;
+    width: 700px;
+    height: 300px;
+    margin: auto;
+    margin-top: 12%;
+}
+h1{
+    color: black;
+    font-style: bold;
+}
+h3{
+    color: red;
+     font-size: 150%;
+}
+p{
+    color:black;
+    font-size: 200%;
+}
+label{
+    color: black;
+    font-size: 125%;
+}
+#result{
+    height: 30 px;
+    width: fit-content;
+    background: black;
+    margin: auto;
+    margin-top: 25px;
+    color: aqua;
+    font-size: large;
+}
+
